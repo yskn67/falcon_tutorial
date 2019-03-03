@@ -8,6 +8,10 @@ verify_ssl = true
 [packages]
 falcon = "*"
 uwsgi = "*"
+gunicorn = "*"
+ipython = "*"
+msgpack-python = "*"
+pytest = "*"
 
 [requires]
 python_version = "3.7"
